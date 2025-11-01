@@ -43,8 +43,8 @@ Use these to log in to the admin panel and test product management.
 
 1. **Clone the repository**
     ```sh
-    git clone https://github.com/your-username/TrendSpire.git
-    cd TrendSpire
+    git clone https://github.com/sarthaksharma52/Ecommerce.git
+    cd Ecommerce
     ```
 
 2. **Install backend dependencies**
@@ -65,7 +65,7 @@ Use these to log in to the admin panel and test product management.
     ```env
     MONGO_URI=your_mongodb_connection_string
     JWT_SECRET=your_secret_key
-    PORT=5000
+    PORT=3000
     ```
 
 5. **Start the backend server**
