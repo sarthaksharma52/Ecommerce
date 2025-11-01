@@ -18,7 +18,7 @@ export default function Footer() {
         <div>
           <h3 className="text-xl font-semibold mb-3">Support</h3>
 
-          <p className="text-gray-200">Hyderabad, India</p>
+          <p className="text-gray-200">Uttar Pradesh, India</p>
           <p className="mt-2 text-gray-200">support@trendspire.com</p>
           <p className="mt-2 text-gray-200">+91 98765 43210</p>
         </div>
@@ -37,13 +37,13 @@ export default function Footer() {
           <h3 className="text-xl font-semibold mb-3">Follow Us</h3>
 
           <div className="flex items-center gap-4 mt-3">
-            <a className="w-10 h-10 flex items-center justify-center rounded-full bg-white text-black hover:bg-gray-200 transition cursor-pointer">
+            <a href="https://github.com/sarthaksharma52" className="w-10 h-10 flex items-center justify-center rounded-full bg-white text-black hover:bg-gray-200 transition cursor-pointer">
               <FaGithub size={22} />
             </a>
-            <a className="w-10 h-10 flex items-center justify-center rounded-full bg-white text-black hover:bg-gray-200 transition cursor-pointer">
+            <a href="https://www.linkedin.com/in/sarthak-sharma-778b28257/" className="w-10 h-10 flex items-center justify-center rounded-full bg-white text-black hover:bg-gray-200 transition cursor-pointer">
               <FaLinkedin size={22} />
             </a>
-            <a className="w-10 h-10 flex items-center justify-center rounded-full bg-white text-black hover:bg-gray-200 transition cursor-pointer">
+            <a href="https://x.com/sarthaksha49075" className="w-10 h-10 flex items-center justify-center rounded-full bg-white text-black hover:bg-gray-200 transition cursor-pointer">
               <FaXTwitter size={22} />
             </a>
           </div>
